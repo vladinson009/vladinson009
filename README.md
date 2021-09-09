@@ -1,4 +1,5 @@
 - JS Fundamentals skills  ✔️
+- Learning JS ADVANCED
 
 <!---
 vladinson009/vladinson009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

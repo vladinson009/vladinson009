@@ -1,0 +1,15 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    background-color: skyblue;
+}
+
+h1 {
+    color: rgb(4, 71, 71);
+    text-align: center;
+}
+
+.myExp {
+    font-size: 20px;
+    list-style-image: url('https://www.hevapla.ch/global/wGlobal/layout/images/icons/arrow-e-1.svg');
+
+}

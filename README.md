@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1><center> Welcome to my Profile</center></h1>
+    <h1><center> Welcome to my Profile</h1>
     <ul class="myExp">
         <li>JS Basic April 2021 with <strong>6.00 / 6.00</strong> ✔️</li>
         <li>JS Fundamentals May 2021 with <strong>6.00 / 6.00</strong> ✔️</li>
@@ -9,7 +9,7 @@
                 width="25" height="25">
         </li>
     </ul>
-    [Facebook](https://facebook.com/vladinson009)
+ 
 
 
 </body>

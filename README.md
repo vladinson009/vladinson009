@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Profile</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
     <h1>Welcome to my Profile</h1>
     <ul class="myExp">
         <li>JS Basic April 2021 with <strong>6.00 / 6.00</strong> ✔️</li>
@@ -21,9 +9,6 @@
     </ul>
 
 
-</body>
-
-</html>
 
 <!---
 vladinson009/vladinson009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

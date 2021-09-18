@@ -1,4 +1,4 @@
-- JS Fundamentals skills  ✔️
+- JS Fundamentals May 2021 with 6.00 / 6.00  ✔️
 - Learning JS ADVANCED
 
 <!---

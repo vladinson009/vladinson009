@@ -1,19 +1,35 @@
-<html>
-<body>
-    <h1><center> Welcome to My Profile</center></h1>
-    <ul class="myExp">
-        <li>JS Basic April 2021 with <strong>6.00 / 6.00</strong> ✔️</li>
-        <li>JS Fundamentals May 2021 with <strong>6.00 / 6.00</strong> ✔️</li>
-        <li>JS ADVANCED in progress <img
-                src="https://www.pinclipart.com/picdir/big/27-273925_working-hard-work-icon-png-clipart.png" alt=""
-                width="25" height="25">
-        </li>
-    </ul>
- 
+# Welcome to My GitHub Profile! 👋
 
+I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in web development. I love creating efficient, clean, and scalable code. I'm continuously learning new technologies and enhancing my skill set.
 
-</body>
-</html>
+## 🛠️ Skills & Technologies:
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries:** React, Node.js
+- **Databases:** back4app cloud service
+- **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai
+- **Other:** API Integration, RESTful services, Web development best practices
+
+## 📚 Education:
+### [SoftUni.bg](https://www.softuni.bg)
+- **JS Basic (April 2021):** Completed with 6.00/6.00 ✔️
+- **JS Fundamentals (May 2021):** Completed with 6.00/6.00 ✔️
+- **JS Advanced:** In progress 🚀
+
+## 🌱 Currently Learning:
+- Advanced JavaScript concepts
+- Backend development with Node.js
+- React Framework
+- Testing frameworks like Playwright
+
+## 🚀 Projects:
+- [Coming soon...](#) – Follow my profile for more info.
+
+## 📫 How to Reach Me:
+- LinkedIn: [vladinson009](https://www.linkedin.com/in/vladimir-gulev-040b3a317/)
+- Email: [vladinson009@icloud.com](mailto:vladinson009@icloud.com)
+- GitHub: [vladinson009](https://github.com/vladinson009)
+
+Thanks for stopping by! Let's connect and collaborate on exciting projects! 😊
 
 
 <!---

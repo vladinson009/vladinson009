@@ -18,7 +18,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **JS Basic (April 2021):** Completed with 6.00/6.00 ✔️
 - **JS Fundamentals (May 2021):** Completed with 6.00/6.00 ✔️
 - **JS Advanced:** In progress 🚀
-- - **JS Backend:** In progress 🚀
+- **JS Backend:** In progress 🚀
 
 ## 🌱 Currently Learning:
 - Advanced JavaScript concepts

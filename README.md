@@ -18,12 +18,14 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **JS Basic (April 2021):** Completed with 6.00/6.00 ✔️
 - **JS Fundamentals (May 2021):** Completed with 6.00/6.00 ✔️
 - **JS Advanced:** In progress 🚀
+- **JS Application:** In progress 🚀
 - **JS Backend:** In progress 🚀
+- **React:** In progress 🚀
 
 ## 🌱 Currently Learning:
 - Advanced JavaScript concepts
 - Backend development with Node.js & ExpressJS
-- React Framework
+- React Library
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:

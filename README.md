@@ -17,9 +17,9 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 ### [SoftUni.bg](https://www.softuni.bg)
 - **JS Basic (April 2021):** Completed with 6.00/6.00 ✔️
 - **JS Fundamentals (May 2021):** Completed with 6.00/6.00 ✔️
-- **JS Advanced:** In progress 🚀
+- **JS Advanced (February 2025):** Completed with 6.00/6.00 ✔️
 - **JS Application:** In progress 🚀
-- **JS Backend:** In progress 🚀
+- **JS Backend (February 2025):** Completed with 6.00/6.00 ✔️
 - **React:** In progress 🚀
 
 ## 🌱 Currently Learning:

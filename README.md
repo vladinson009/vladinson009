@@ -12,6 +12,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **Databases:** back4app cloud service, MongoDB(Mongoose)
 - **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai
 - **Other:** API Integration, RESTful services, Web development best practices
+-  (**MERN**)
 
 ## 📚 Education:
 ### [SoftUni.bg](https://www.softuni.bg)
@@ -24,8 +25,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 
 ## 🌱 Currently Learning:
 - Advanced JavaScript concepts
-- Backend development with Node.js & ExpressJS
-- React Library
+
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:

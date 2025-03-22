@@ -59,7 +59,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:
-- [Coming soon...](#) – Follow my profile for more info.
+- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – My first project from zero using ReactJS.
 
 ## 📫 How to Reach Me:
 - LinkedIn: [vladinson009](https://www.linkedin.com/in/vladimir-gulev-040b3a317/)

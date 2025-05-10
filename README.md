@@ -32,11 +32,11 @@
 
 # Welcome to My GitHub Profile! 👋
 
-I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in web development. I love creating efficient, clean, and scalable code. I'm continuously learning new technologies and enhancing my skill set. Everyday...
+I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in web development. I love creating efficient, clean, and scalable code. I'm continuously learning new technologies and enhancing my skills set. Everyday...
 
 ## 🛠️ Skills & Technologies:
-- **Languages:** JavaScript (CommonJS, ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** React, Node.js, ExpressJS
+- **Languages:** JavaScript (CommonJS, ES6+), HTML5, CSS3, TypeScript 
+- **Frameworks:** React, Angular, ExpressJS
 - **Databases:** back4app cloud service, MongoDB(Mongoose)
 - **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai
 - **Other:** API Integration, RESTful services, Web development best practices
@@ -46,10 +46,10 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 ### [SoftUni.bg](https://www.softuni.bg)
 - **JS Basic (April 2021):** Completed with 6.00/6.00 ✔️
 - **JS Fundamentals (May 2021):** Completed with 6.00/6.00 ✔️
-- **JS Advanced (February 2025):** Completed with 6.00/6.00 ✔️
-- **JS Application:** In progress 🚀
-- **JS Backend (February 2025):** Completed with 6.00/6.00 ✔️
-- **React:** In progress 🚀
+- **JS Advanced (January 2025):** Completed with 6.00/6.00 ✔️
+- **JS Backend (January 2025):** Completed with 6.00/6.00 ✔️
+- **JS Application (February 2025):** Completed with 6.00/6.00 ✔️
+- **React (February 2025):** Completed with 6.00/6.00 ✔️
 
 ## 🌱 Current & Upcoming Studies:
 - **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
@@ -59,7 +59,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:
-- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – My first project from zero using ReactJS.
+- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – My first project from zero using React.
 
 ## 📫 How to Reach Me:
 - LinkedIn: [vladinson009](https://www.linkedin.com/in/vladimir-gulev-040b3a317/)

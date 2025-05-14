@@ -51,6 +51,17 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **JS Application (February 2025):** Completed with 6.00/6.00 ✔️
 - **React (February 2025):** Completed with 6.00/6.00 ✔️
 
+## 📖 Read Books
+| Title | Author |
+|-------|--------|
+| [*Beginning JavaScript*](https://a.co/d/4LtoXpM) | Jeremy McPeak | 
+| [*Effective TypeScript*](https://a.co/d/aXWdGh3) | Dan Vanderkam  | 
+| [*React and React Native*](https://a.co/d/11CAK4u) | Mikhail Sakhniuk  | 
+| [*React Testing Library Crash Course*](https://a.co/d/0ZM7LaL) | Ákos Kőműves | 
+| [*Angular 19 for Beginners*](https://a.co/d/663BRIH) | James A. Velazquez | 
+| [*Learning Angular*](https://a.co/d/4tDaWZg) | Aristeidis Bampakos | 
+
+
 ## 🌱 Current & Upcoming Studies:
 - **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
 - **Angular** – Exploring component-based architecture and state management 🎯

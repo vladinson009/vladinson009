@@ -51,7 +51,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **JS Application (February 2025):** Completed with 6.00/6.00 ✔️
 - **React (February 2025):** Completed with 6.00/6.00 ✔️
 
-## 📖 Read Books
+## 📖 Read Books I recommend
 | Title | Author |
 |-------|--------|
 | [*Beginning JavaScript*](https://a.co/d/4LtoXpM) | Jeremy McPeak | 

@@ -44,12 +44,12 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 
 ## 📚 Education:
 ### [SoftUni.bg](https://www.softuni.bg)
-- **JS Basic (April 2021):** Completed with 6.00/6.00 ✔️
-- **JS Fundamentals (May 2021):** Completed with 6.00/6.00 ✔️
-- **JS Advanced (January 2025):** Completed with 6.00/6.00 ✔️
-- **JS Backend (January 2025):** Completed with 6.00/6.00 ✔️
-- **JS Application (February 2025):** Completed with 6.00/6.00 ✔️
-- **React (February 2025):** Completed with 6.00/6.00 ✔️
+- **[JS Basic (April 2021)](https://softuni.bg/certificates/details/106638/8f3146d6):** Completed with 6.00/6.00 ✔️
+- **[JS Fundamentals (May 2021)](https://softuni.bg/certificates/details/111272/7083861f):** Completed with 6.00/6.00 ✔️
+- **[JS Advanced (January 2025)](https://softuni.bg/certificates/details/237480/56861bef):** Completed with 6.00/6.00 ✔️
+- **[JS Backend (January 2025)](https://softuni.bg/certificates/details/237674/aafe851b):** Completed with 6.00/6.00 ✔️
+- **[JS Application (February 2025)](https://softuni.bg/certificates/details/241276/41328187):** Completed with 6.00/6.00 ✔️
+- **[React (February 2025)](https://softuni.bg/certificates/details/241481/76346ebf):** Completed with 6.00/6.00 ✔️
 
 ## 📖 Read Books I recommend
 | Title | Author |

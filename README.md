@@ -50,6 +50,8 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **[JS Backend (January 2025)](https://softuni.bg/certificates/details/237674/aafe851b):** Completed with 6.00/6.00 ✔️
 - **[JS Application (February 2025)](https://softuni.bg/certificates/details/241276/41328187):** Completed with 6.00/6.00 ✔️
 - **[React (February 2025)](https://softuni.bg/certificates/details/241481/76346ebf):** Completed with 6.00/6.00 ✔️
+- **[TypeScript (June 2025)](https://softuni.bg/Certificates/Details/245007/cf473de1):** Completed with 5.72/6.00 ✔️
+- **[HTML & CSS (June 2025)](https://softuni.bg/Certificates/Details/245751/e3b833ac):** Completed with 6.00/6.00 ✔️
 
 ## 📖 Read Books I recommend
 | Title | Author |
@@ -63,14 +65,14 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 
 
 ## 🌱 Current & Upcoming Studies:
-- **TypeScript** – Learning advanced typing, generics, and best practices 🏗️
 - **Angular** – Exploring component-based architecture and state management 🎯
 - **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
 
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:
-- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – My first project from zero using React.
+- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – My first frontend project from scratch using React.
+- [Express-server](https://github.com/vladinson009/express-server) – My backend server using Express.
 
 ## 📫 How to Reach Me:
 - LinkedIn: [vladinson009](https://www.linkedin.com/in/vladimir-gulev-040b3a317/)

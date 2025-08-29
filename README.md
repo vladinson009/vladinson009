@@ -52,6 +52,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **[React (February 2025)](https://softuni.bg/certificates/details/241481/76346ebf):** Completed with 6.00/6.00 ✔️
 - **[TypeScript (June 2025)](https://softuni.bg/Certificates/Details/245007/cf473de1):** Completed with 5.72/6.00 ✔️
 - **[HTML & CSS (June 2025)](https://softuni.bg/Certificates/Details/245751/e3b833ac):** Completed with 6.00/6.00 ✔️
+- **[Angular (June 2025)](https://softuni.bg/certificates/details/249219/4491e484):** Completed with 6.00/6.00 ✔️
 
 ## 📖 Read Books I recommend
 | Title | Author |
@@ -65,14 +66,15 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 
 
 ## 🌱 Current & Upcoming Studies:
-- **Angular** – Exploring component-based architecture and state management 🎯
 - **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
+- **Git & GitHub** – Working with Git and branch strategies 
 
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:
-- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – My first frontend project from scratch using React.
-- [Express-server](https://github.com/vladinson009/express-server) – My backend server using Express.
+- [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – First frontend project from scratch using React.
+- [Game-Store](https://github.com/vladinson009/game-store) –  Frontend project using Angular.
+- [Express-server](https://github.com/vladinson009/express-server) – Backend server using Express.
 
 ## 📫 How to Reach Me:
 - LinkedIn: [vladinson009](https://www.linkedin.com/in/vladimir-gulev-040b3a317/)

@@ -58,6 +58,9 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - **[HTML & CSS (June 2025)](https://softuni.bg/Certificates/Details/245751/e3b833ac):** Completed with 6.00/6.00 ✔️
 - **[Angular (June 2025)](https://softuni.bg/certificates/details/249219/4491e484):** Completed with 6.00/6.00 ✔️
 
+### [Udemy.com](https://www.udemy.com)
+- **[Next.js 15 & React (October 2025)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6ac12583-128a-46c2-92d3-5d2594ca7c02.pdf):**  by Maximilian Schwarzmüller
+
 ## 📖 Read Books I recommend
 | Title | Author |
 |-------|--------|

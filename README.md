@@ -18,6 +18,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth-333333?style=flat-square&logo=next-auth&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-6366F1?style=flat-square&logoColor=white)
 
  
 </div>
@@ -75,6 +77,8 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 ## 🌱 Current & Upcoming Studies:
 - **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
 - **Git & GitHub** – Working with Git and branch strategies 
+- **NextJs** – Fullstack application using NextAuth 
+- **ShadCN** – lightweight customizable UI components library using tailwindcss & radix under the hood
 
 - Testing frameworks like Playwright
 

@@ -42,7 +42,8 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 
 ## 🛠️ Skills & Technologies:
 - **Languages:** JavaScript (CommonJS, ES6+), HTML5, CSS3, TypeScript 
-- **Frameworks:** React, Angular, ExpressJS
+- **Frameworks:** NextJS, React, Angular, ExpressJS
+- **UI:** Tailwind, ShadCN-UI, Material-UI
 - **Databases:** back4app cloud service, MongoDB(Mongoose)
 - **Tools & Platforms:** Git, GitHub, Playwright, Mocha, Chai
 - **Other:** API Integration, RESTful services, Web development best practices

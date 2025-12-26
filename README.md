@@ -77,11 +77,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 
 
 ## 🌱 Current & Upcoming Studies:
-- **DevOps** – Understanding CI/CD, Docker, and cloud deployments ☁️
-- **Git & GitHub** – Working with Git and branch strategies 
-- **NextJs** – Fullstack application using NextAuth 
 - **ShadCN** – lightweight customizable UI components library using tailwindcss & radix under the hood
-
 - Testing frameworks like Playwright
 
 ## 🚀 Projects:

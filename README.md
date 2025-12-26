@@ -88,6 +88,7 @@ I'm **Vladimir**, a passionate JavaScript developer with a strong foundation in 
 - [HØST-TATTOO](https://github.com/vladinson009/host-tattoo) – First frontend project from scratch using React.
 - [Game-Store](https://github.com/vladinson009/game-store) –  Frontend project using Angular.
 - [Express-server](https://github.com/vladinson009/express-server) – Backend server using Express.
+- [NextCash](https://github.com/vladinson009/next-cash) – FullStack Finance Tracking project using NextJS 16.
 
 ## 📫 How to Reach Me:
 - LinkedIn: [vladinson009](https://www.linkedin.com/in/vladimir-gulev-040b3a317/)
